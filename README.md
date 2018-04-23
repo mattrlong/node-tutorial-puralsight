@@ -1,4 +1,4 @@
-# node-tutorial-puralsight
+# node-project-base
 
 [![Build Status](https://travis-ci.org/mattrlong/node-tutorial-puralsight.svg?branch=master)](https://travis-ci.org/mattrlong/node-project-base)
 
