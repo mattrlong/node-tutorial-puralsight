@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 57031966,
+      "firstName": "Kellen",
+      "lastName": "Ernser",
+      "email": "Rocky.Hodkiewicz@hotmail.com"
+    },
+    {
+      "id": 50300988,
+      "firstName": "Josianne",
+      "lastName": "Zulauf",
+      "email": "Madaline42@yahoo.com"
+    },
+    {
+      "id": 2708419,
+      "firstName": "Ruben",
+      "lastName": "Hilpert",
+      "email": "Stevie_Corkery@yahoo.com"
+    },
+    {
+      "id": 65293345,
+      "firstName": "Fidel",
+      "lastName": "Veum",
+      "email": "Preston.Botsford@hotmail.com"
+    }
+  ]
+}
