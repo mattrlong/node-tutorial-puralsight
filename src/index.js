@@ -1,3 +1,4 @@
+/*global global */
 import {deleteUser, getUsers} from "./api/userApi";
 
 getUsers().then(result => {
